@@ -15,15 +15,15 @@ I'm a passionate **DevOps Engineer** and ITI graduate focused on building scalab
 
 ## 🛠️ Skills & Tools
 
-- **Cloud Platforms:** AWS ☁️ | Huawei Cloud  
-- **Containers:** Docker 🐳 | Kubernetes ☸️  
-- **Automation & IaC:** Ansible 🤖 | Terraform 🌍  
-- **CI/CD:** Jenkins ⚙️ | GitHub Actions  
-- **Monitoring:** Prometheus 📊 | Grafana 📈  
+- **Cloud Platforms:** AWS   
+- **Containers:** Docker | Kubernetes 
+- **Automation & IaC:** Ansible | Terraform 
+- **CI/CD:** Jenkins  | GitHub Actions  
+- **Monitoring:** Prometheus | Grafana  
 - **Operating Systems:** Red Hat | CentOS  
 - **Web Servers:** NGINX | Apache  
-- **Scripting:** Bash | Python 🐍  
-- **Other Tools:** Git | Agile | Networking (CCNA)
+- **Scripting:** Bash | Python  
+- **Version Control:** Git |
 
 ---
 
@@ -39,9 +39,7 @@ I'm a passionate **DevOps Engineer** and ITI graduate focused on building scalab
 
 ## 🏅 Certificates
 
-- ✅ Red Hat Certified System Administrator (RHCSA) – Expiry: 03/2028  
-- ✅ Huawei Certified ICT Associate (HCIA)  
-- 🔄 Certified Kubernetes Administrator (CKA) – *In Progress*
+- [Red Hat Certified System Administrator (RHCSA)](https://www.credly.com/badges/6d95a163-dc20-483a-a7a2-2cc78a5c8d77/public_url) 
 
 ---
 
@@ -60,3 +58,22 @@ I'm a passionate **DevOps Engineer** and ITI graduate focused on building scalab
 
 ---
 
+
+## 🧰 Tech Stack & Tools
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="40" alt="redhat" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="jenkins" />
+</p>
+
+---
