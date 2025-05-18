@@ -54,7 +54,7 @@ I'm a passionate **DevOps Engineer** and ITI graduate focused on building scalab
 ## 📬 Let's Connect!
 
 - 📧 moh7mousa@gmail.com  
-- 💼 [LinkedIn](linkedin.com/in/mohamed-mousa-37521a269/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/mohamed-mousa-37521a269/)  
 
 ---
 
