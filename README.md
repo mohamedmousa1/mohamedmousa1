@@ -23,7 +23,7 @@ I'm a passionate **DevOps Engineer** and ITI graduate focused on building scalab
 - **Operating Systems:** Red Hat | CentOS  
 - **Web Servers:** NGINX | Apache  
 - **Scripting:** Bash | Python  
-- **Version Control:** Git |
+- **Version Control:** Git 
 
 ---
 
@@ -54,7 +54,7 @@ I'm a passionate **DevOps Engineer** and ITI graduate focused on building scalab
 ## 📬 Let's Connect!
 
 - 📧 moh7mousa@gmail.com  
-- 💼 [LinkedIn](linkedin.com/in/mohamed-mousa-37521a269)  
+- 💼 [LinkedIn](linkedin.com/in/mohamed-mousa-37521a269/)  
 
 ---
 
